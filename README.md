@@ -1,4 +1,4 @@
-# Machine-Predictive-Maintainence-Anomaly-Detection
+# Anomaly-Detection
 Anomaly Detection deployed on machine data dataset for Predictive Maintenance .
 
 * Project - Predictive Maintainence Anomaly Detection
@@ -6,8 +6,8 @@ Anomaly Detection deployed on machine data dataset for Predictive Maintenance .
 * Tools - Google Colab, Jupyter Notebooks, Python, Numpy, Pandas, Matplotlib, Seaborn, Sklearn
 
  ### Real Life Application :
-This can be deployed in an Industrial Internet of Things (IIoT) System , where the system variables measured throught the sensors are sent to Processing System (ofc with my algorithm inside
-it ) and can be used to monitor system health and predict need for maintainence in the Mechatronic System. Since Prevention is better than cure , a maintainence before any damage or major
+This can be deployed in an Industrial Internet of Things (IIoT) System, where the system variables measured throught the sensors are sent to Processing System (ofc with my algorithm inside
+it) and can be used to monitor system health and predict need for maintainence in the Mechatronic System. Since Prevention is better than cure, a maintainence before any damage or major
 inconvenience happens is better, hence our system can reduce maintainence costs thus being a business boon.
 
 ### The Dataset :
@@ -19,7 +19,7 @@ A copy of the dataset has been uploaded on this repository just in case the kagg
 To build an Anomaly Detection system for Predictive Maintainence work on Machines data using Multivariate Gaussian fitting and thresholding, a simple unsupervised learning technique.
 
 ### Result:
-![screenshot](CM.jpg)
+![screenshot](CM.JPG)
 
 The Confusion Matrix was satisfactory, and the F1 score of my model was in range of that of competitors
 [https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification/code](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification/code) 
